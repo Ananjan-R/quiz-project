@@ -1,0 +1,1 @@
+SELECT * FROM `quiz-online`.question_correct_answers;
